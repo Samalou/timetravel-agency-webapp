@@ -11,7 +11,7 @@ Cette webapp présente une agence fictive de voyage temporel premium, proposant 
 Projet réalisé en groupe (2 personnes) :
 
 - **Samuel Namani**
-- **[Nom du 2ème membre à ajouter]**
+- **MEYER Gaspard**
 
 ---
 
